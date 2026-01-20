@@ -8,9 +8,9 @@ terraform {
 }
 
 provider "zpa" {
-  client_id     = ""
-  client_secret = ""
-  customer_id   = ""
+  client_id     = "Mjg4MjY0NjgyMjAyOTg4OTI1LTFjNDg1ZjQ1LTk1NDUtNDNlMC1iNTIxLWRlNjg5ZjE3MTI3OQ=="
+  client_secret = "!e;Ghb}Wz*QA7J3)N<@u'H'3ay9<T*@4"
+  customer_id   = "288264682202988544"
 }
 
 resource "zpa_segment_group" "default_segment_group" {
